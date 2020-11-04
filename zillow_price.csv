@@ -1,0 +1,733 @@
+price,address,bds,ba,sqft,image
+"$799,000","275 Hollywood Ave, Bronx, NY 10465",5,3,"2,400",https://photos.zillowstatic.com/fp/7b96b32b8ac6a4c01153f04b7f17dbcd-p_e.jpg
+"$615,000","251 Reid Ave, Staten Island, NY 10305",3,2,"1,788",https://photos.zillowstatic.com/fp/d98311e67e448ccc20baa9a2847f4fdb-p_e.jpg
+"$425,000","627 Westwood Ave #A, Staten Island, NY 10314",2,2,"1,056",https://photos.zillowstatic.com/fp/682cd8fc2c2e9b27f939459e80acc624-p_e.jpg
+"$799,000","210 Thompson St APT 4BN, New York, NY 10012",2,1,--,https://photos.zillowstatic.com/p_e/ISfksn9xk2fqs20000000000.jpg
+"$998,000","123 W 131st St APT 3, New York, NY 10027",2,2,900,https://photos.zillowstatic.com/p_e/IS7qjafzy66gwd0000000000.jpg
+"$569,999","136 Lander Ave, Staten Island, NY 10314",3,3,"1,606",https://photos.zillowstatic.com/fp/37769ff6fefc4559aa2a6f62e8b60cfc-p_e.jpg
+"$320,000","98-20 62nd Dr #7C, Rego Park, NY 11374",1,1,700,https://photos.zillowstatic.com/fp/14c9f837d8dc4c479349e202a918ea92-p_e.jpg
+"$2,399,000","230 W 139th St, New York, NY 10030",6,4,"4,216",https://photos.zillowstatic.com/fp/d94879631bb3c70858391a856b755257-p_e.jpg
+"$1,199,999","779 Dawson St, Bronx, NY 10455",7,3,"2,880",https://photos.zillowstatic.com/fp/09930af39891d5520f8f8ee03c77eeb5-p_e.jpg
+"$319,000","320 E 42nd St APT 205, New York, NY 10017",Studio,1,350,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$780,000","362 Buchanan Ave, Staten Island, NY 10314",5,3,"2,269","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$829,000","25717 144th Ave, Jamaica, NY 11422",7,4,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,220,000","11802 203rd St, Jamaica, NY 11412",8,5,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$478,888","8612 86th St, Jamaica, NY 11421",3,1,"1,464","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,000","353 Fordham Pl, Bronx, NY 10464",3,2,"1,424","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$735,000","15 Jones St APT 4G, New York, NY 10014",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$625,000","3240 Bruner Ave, Bronx, NY 10469",5,2,"2,104","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,600,000","25-63 47th St, Astoria, NY 11103",5,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,900","6070 Woodhaven Blvd APT 6B, Flushing, NY 11373",3,2,991,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$3,995,000","52 2nd Pl, Brooklyn, NY 11231",5,4,"3,072","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,695,000","305 2nd Ave APT 711, New York, NY 10003",1,2,"1,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$5,995,000","438 W 44th St, New York, NY 10036",6,6,"5,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","19033 117th Rd, Jamaica, NY 11412",4,2,"1,616","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,899","16210 Powells Cove Blvd APT 3C, Flushing, NY 11357",3,1,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$995,000","150 Joralemon St #11C, Brooklyn, NY 11201",2,2,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,185,000","1118 E 28th St, Brooklyn, NY 11210",3,3,"1,840","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$674,000","696 Annadale Rd, Staten Island, NY 10312",3,2,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$989,000","6028 54th Pl, Flushing, NY 11378",7,3,"1,824","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$649,000","1971 Rockaway Pkwy, Brooklyn, NY 11236",3,2,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$95,000","495 E 178th St APT 2A, Bronx, NY 10457",1,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$649,999","3520 Leverich St #B, Jackson Heights, NY 11372",2,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$325,000","172 Pierce St, Staten Island, NY 10304",2,1,892,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$698,888","2710 E 23rd St, Brooklyn, NY 11235",5,3,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$698,000","143 Darlington Ave, Staten Island, NY 10312",4,2,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,240,000","173 Hicks St #6D, Brooklyn, NY 11201",2,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$645,000","24844 89th Ave, Jamaica, NY 11426",3,2,"1,440","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$830,000","9 Boyle Pl, Staten Island, NY 10306",3,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$384,999","337 Parkinson Ave, Staten Island, NY 10305",2,2,884,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","3101 Wissman Ave, Bronx, NY 10465",3,1,780,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$13,970,012","232 E 35th St, New York, NY 10016",9,6,"8,240","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$999,999","121 Hart St, Brooklyn, NY 11206",6,2,"2,164",https://photos.zillowstatic.com/fp/5a5b7a69828b8741ec14366048656820-p_e.jpg
+"$690,000","8043 262nd St, Glen Oaks, NY 11004",3,3,"5,000",https://photos.zillowstatic.com/p_e/ISbpp5g3jr362a1000000000.jpg
+"$1,195,000","89 State St APT 4, Brooklyn, NY 11201",2,1,--,https://photos.zillowstatic.com/fp/61b6e19ce93af4b3f8a475a1465389d2-p_e.jpg
+"$589,000","219 Lyndale Ave, Staten Island, NY 10312",3,1,900,N/A
+"$519,000","333 E 53rd St APT 7C, New York, NY 10022",1,1,"118,694",https://photos.zillowstatic.com/p_e/ISr1y8b1xql9ss1000000000.jpg
+"$949,500","137 Bryant Ave, Staten Island, NY 10306",3,2,"2,200",https://photos.zillowstatic.com/fp/9ededfc8350127e502ced18be7754b1e-p_e.jpg
+"$799,000","6149 78th St, Flushing, NY 11379",2,2,"1,600",https://photos.zillowstatic.com/fp/5ab212f7f91d660919224a1f7ba19b6b-p_e.jpg
+"$659,000","76-12, 97th Avenue, Ozone Park, NY 11416",3,3,"1,300",https://photos.zillowstatic.com/p_e/ISbdgu3js68iwf0000000000.jpg
+"$899,800","6300 Austin St, Rego Park, NY 11374",3,3,"1,776",https://photos.zillowstatic.com/fp/b8c460d9f1345693eea88936216bd502-p_e.jpg
+"$1,900,000","350 15th St, Brooklyn, NY 11215",4,2,"2,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,099,000","1946 W 3rd St, Brooklyn, NY 11223",5,3,"1,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","62 Cayuga Ave, Staten Island, NY 10301",4,2,"1,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,000","26 E 19th St #7A, Brooklyn, NY 11226",2,3,969,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$329,000","450 Saint Nicholas Ave APT 5C, New York, NY 10027",2,1,700,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$575,000","14220 Franklin Ave APT 2C, Flushing, NY 11355",2,1,710,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,000","106-08 227th St, Queens Village, NY 11429",5,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,074,000","4247 Bedford Ave, Brooklyn, NY 11229",5,3,"2,381","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$739,888","1724 Hendrickson St, Brooklyn, NY 11234",4,3,"2,246","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$995,000","5024 63rd St, Woodside, NY 11377",4,2,"2,280","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$760,000","1572 Rhinelander Ave, Bronx, NY 10461",4,4,"2,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$729,000","924 E 221st St, Bronx, NY 10469",5,3,"1,768","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$918,888","4554 196th Pl, Flushing, NY 11358",3,2,"1,350",N/A
+"$780,000","71-01 Penelope Ave, Middle Village, NY 11379",3,2,"1,530","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,000","520 E 72nd St APT 10N, New York, NY 10021",1,1,650,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,275,000","162 Beach 129th St, Rockaway Park, NY 11694",4,3,"1,952","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$980,000","189 Garfield Ave, Staten Island, NY 10305",6,4,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,190,000","15469 Powells Cove Blvd, Beechhurst, NY 11357",4,5,"3,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,180,000","29-38 172nd St #2B, Flushing, NY 11358",6,3,"2,580","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,250,000","2925 160th St, Flushing, NY 11358",5,3,"2,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,999","101-06 Shore Front Pkwy #24A, Rockaway Park, NY 11694",3,3,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$679,000","22 Rome Ave, Staten Island, NY 10304",3,3,"1,350","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$495,000","156 Russek Dr, Staten Island, NY 10312",3,2,"1,805","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$195,000","11225 34th Ave APT 6C, Corona, NY 11368",2,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","811 Church Rd, Broad Channel, NY 11693",3,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$729,000","10940 153rd St, Jamaica, NY 11433",5,3,"1,956","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$660,000","2552 Fenton Ave, Bronx, NY 10469",3,3,"1,925","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,925,000","285 Exeter St, Brooklyn, NY 11235",5,4,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$875,000","6032 Liebig Ave, Bronx, NY 10471",3,2,"1,672","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$927,000","7531 195th St, Flushing, NY 11366",4,2,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,500","360 E 72nd St APT B211, New York, NY 10021",2,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$895,000","449 Seaver Ave, Staten Island, NY 10305",5,4,"2,676",https://photos.zillowstatic.com/fp/843d59c80aaedfce5475b40b61a7f58f-p_e.jpg
+"$1,189,000","125 Beverly Rd, Staten Island, NY 10305",4,4,"2,876",https://photos.zillowstatic.com/fp/240d62d2044efef315af0084ab29f0ef-p_e.jpg
+"$339,000","830 Howard Ave, Staten Island, NY 10301",1,1,860,N/A
+"$285,000","2555 E 12th St #L, Brooklyn, NY 11235",1,1,--,https://photos.zillowstatic.com/p_e/ISzrjdgutjx0cx0000000000.jpg
+"$654,900","9116 214th St, Jamaica, NY 11428",3,3,"1,008",https://photos.zillowstatic.com/fp/7dca70af096f4a18d3ed34123f91d6e9-p_e.jpg
+"$939,000","1733 150th St, Flushing, NY 11357",3,1,"1,239",https://photos.zillowstatic.com/fp/186451bf35fa6a3daf776e1d531614f6-p_e.jpg
+"$899,000","30 Iowa Pl, Staten Island, NY 10314",4,4,"2,792",https://photos.zillowstatic.com/fp/5a9c1cb8b301997811c459ff4a44ff6e-p_e.jpg
+"$1,480,000","5342 Browvale Ln, Flushing, NY 11362",4,3,"2,080",https://photos.zillowstatic.com/fp/4bc753609238457c05f133d8e8068070-p_e.jpg
+"$1,150,000","2374 E 70th St, Brooklyn, NY 11234",4,4,"3,276",https://photos.zillowstatic.com/fp/926bb6f81acd5de7b0d761935254b4f4-p_e.jpg
+"$3,200,000","66-44 Grand Ave, Maspeth, NY 11378",3,6,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,450,000","572 17th St, Brooklyn, NY 11218",4,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$849,000","129 Waterbury Ave, Staten Island, NY 10309",3,4,"2,360","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","325 E 41st St APT 104, New York, NY 10017",Studio,1,420,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,150,000","5339 208th St, Bayside, NY 11364",4,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$679,000","35 Bay St, Bronx, NY 10464",3,1,"1,036","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,488,000","19814 Epsom Crse, Jamaica, NY 11423",4,4,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$120,000","495 E 178th St APT 2B, Bronx, NY 10457",2,1,"55,137","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$999,000","340 97th St, Brooklyn, NY 11209",3,2,"1,260","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$545,000","1658 Troy Ave, Brooklyn, NY 11234",3,3,"1,584","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$199,500","175 Zoe St APT 4P, Staten Island, NY 10305",1,1,474,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,550,000","736 Bergen St, Brooklyn, NY 11238",4,2,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,198,000","107 W 86th St #4A, New York, NY 10024",2,2,"1,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,600,000","257 8th St APT 4, Brooklyn, NY 11215",3,2,"1,228","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$386,000","84-29 153rd Ave #4-H, Howard Beach, NY 11414",2,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,765,000","4838 42nd St, Long Island City, NY 11104",6,3,"2,232","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$669,000","1713 E 35th St, Brooklyn, NY 11234",3,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$900,000","2171 61st St, Brooklyn, NY 11204",5,3,"1,376","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$899,000","15325 58th Rd, Flushing, NY 11355",3,3,"1,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$287,000","92 Hamilton Ave #5DE, Yonkers, NY 10705",4,1,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,005,000","132 Beach 130 St, Belle Harbor, NY 11694",4,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,250,000","4038 189th St, Flushing, NY 11358",7,3,"4,050","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$389,000","1814 Forest Hill Rd, Staten Island, NY 10314",2,2,"1,008",N/A
+"$339,000","3500 Snyder Ave APT 7M, Brooklyn, NY 11203",2,1,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$559,000","1169 Grenada Pl, Bronx, NY 10466",4,4,"1,188","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$865,000","1464 E 23rd St, Brooklyn, NY 11210",3,3,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,249,000","2424 E 14th St, Brooklyn, NY 11235",6,5,"1,980","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$255,000","3015 Hobart St #2H, Woodside, NY 11377",1,1,480,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$750,000","1584 Waring Ave, Bronx, NY 10469",3,2,"2,161","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$635,000","10731 Guy R Brewer Blvd, Jamaica, NY 11433",7,3,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$849,998","46 Nichols Ave, Brooklyn, NY 11208",5,2,"2,116","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$287,000","92 Hamilton Ave #5ED, Yonkers, NY 10705",4,1,--,https://photos.zillowstatic.com/p_e/ISbh335dp3waq61000000000.jpg
+"$1,350,000","357 W 55th St #5FG, New York, NY 10019",3,2,"1,400",https://photos.zillowstatic.com/fp/ac310f80af50033b43ced9da81d02a43-p_e.jpg
+"$819,000","1997 New York Ave, Brooklyn, NY 11210",3,3,"2,000",https://photos.zillowstatic.com/fp/b44cb2beae0734fc3b71b5c4f95a8736-p_e.jpg
+"$1,499,000","397 Bayside Ave, Breezy Point, NY 11697",3,2,"1,600",https://photos.zillowstatic.com/fp/75debba0479c4973d42d58a16555b69f-p_e.jpg
+"$470,000","61-88 Dry Harbor Rd #5B, Middle Village, NY 11379",2,1,"1,000",https://photos.zillowstatic.com/p_e/ISzz9vdnhnwqld0000000000.jpg
+"$190,000","5650 Netherland Ave APT 4B, Bronx, NY 10471",1,1,700,https://photos.zillowstatic.com/p_e/ISvslcov55rswh0000000000.jpg
+"$2,000,000","107 Indiana Pl, Brooklyn, NY 11234",4,9,"2,348",N/A
+"$919,000","764 Bergen St APT 3A, Brooklyn, NY 11238",2,1,915,https://photos.zillowstatic.com/p_e/ISvoe07rslon9l1000000000.jpg
+"$640,000","1460 Bell Blvd FLOOR 1, Bayside, NY 11360",3,2,--,https://photos.zillowstatic.com/p_e/ISvw0bkobe3k5a1000000000.jpg
+"$979,000","104 Quinlan Ave, Staten Island, NY 10314",6,5,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$3,500,000","167 Nevada Ave, Staten Island, NY 10306",6,9,"6,776","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$525,000","17-85 215th St APT 9R, Bayside, NY 11360",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$569,000","10912 167th St, Jamaica, NY 11433",3,3,"1,188","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","3347 14th St APT 5D, Astoria, NY 11106",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,400,000","82 Greenport St, Staten Island, NY 10304",5,4,"2,355","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$950,000","821 Woodrow Rd, Staten Island, NY 10312",4,3,"2,190","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$284,000","20910 41st Ave APT 1H, Flushing, NY 11361",2,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,600,000","69 Bay 11th St, Brooklyn, NY 11228",5,3,"3,134","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,500,000","10521 Avenue M, Brooklyn, NY 11236",4,4,"2,330","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$879,900","18 Dale Ave, Staten Island, NY 10306",3,4,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,950,000","37 Bassett Ave, Brooklyn, NY 11234",5,4,"4,233","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$749,999","8 Clarence Pl, Staten Island, NY 10306",3,2,"2,012","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$899,900","145 Prall Ave, Staten Island, NY 10312",4,3,"2,531","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,000","8429 153rd Ave APT 4J, Howard Beach, NY 11414",1,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$4,000,000","1245-1247 E 23rd St, Brooklyn, NY 11210",7,9,"4,000",N/A
+"$675,000","345 Clinton Ave APT 4B, Brooklyn, NY 11238",2,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$948,000","7531 183rd St, Flushing, NY 11366",3,2,"1,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,150,000","8705 69th Ave, Flushing, NY 11375",3,2,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$528,000","6932 Bayfield Ave, Arverne, NY 11692",2,2,900,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$409,000","29 Bogardus St, Brooklyn, NY 11235",2,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$860,000","83-47 253rd St, Bellerose, NY 11426",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$778,000","8139 Woodhaven Blvd, Glendale, NY 11385",3,2,"2,018","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,575,000","303 W 66th St APT 8EE, New York, NY 10023",3,2,"426,476","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$959,000","16148 87th St, Jamaica, NY 11414",4,3,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$190,000","1575 Odell St, Bronx, NY 10462",1,1,829,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$885,000","8737 Union Tpke, Glendale, NY 11385",3,3,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$739,000","705 Hollywood Ave, Bronx, NY 10465",6,3,"1,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,000,000","3559 37th Ave, Long Island City, NY 11101",3,2,"1,120","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,199,000","515 E 28th St, Brooklyn, NY 11210",4,3,"3,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$988,000","12317 9th Ave, Flushing, NY 11356",6,3,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$460,000","3395 Nostrand Ave APT 5B, Brooklyn, NY 11229",2,2,"1,300",https://photos.zillowstatic.com/p_e/ISb17335amjk8d0000000000.jpg
+"$428,500","920 166th St APT 9A, Flushing, NY 11357",2,1,"1,020",https://photos.zillowstatic.com/p_e/ISrldet1a99b2u0000000000.jpg
+"$760,000","8312 159th Ave, Jamaica, NY 11414",4,2,"2,125",https://photos.zillowstatic.com/fp/b7c58cca07be1324cd7e4ae320c67ddd-p_e.jpg
+"$1,749,999","70 Woodvale Loop, Staten Island, NY 10309",7,5,"7,000",https://photos.zillowstatic.com/fp/96796fb80efef1a509dcdc8e0857c988-p_e.jpg
+"$1,750,000","215 Saint Johns Ave, Staten Island, NY 10305",4,4,"3,028",https://photos.zillowstatic.com/fp/29dce6fe952f7b8950e97781ab681689-p_e.jpg
+"$629,999","1993 Rockaway Pkwy, Brooklyn, NY 11236",3,2,--,https://photos.zillowstatic.com/p_e/IS7ihzu3f085nw1000000000.jpg
+"$639,000","2711 Morgan Ave, Bronx, NY 10469",5,3,"2,328",https://photos.zillowstatic.com/p_e/IS7i560r5elzhb0000000000.jpg
+"$3,499,000","146 Irwin St, Brooklyn, NY 11235",4,5,"4,000",https://photos.zillowstatic.com/fp/a8a2efe1673ef4c327a3ea7737ac6726-p_e.jpg
+"$859,999","3121 Corlear Ave, Bronx, NY 10463",3,4,"2,500",https://photos.zillowstatic.com/fp/2e9cb08406451cc9278790d93745b69d-p_e.jpg
+"$990,000","8458 159th St, Jamaica, NY 11432",4,4,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$640,000","87-17 139th St #1, Queens, NY 11435",3,3,--,N/A
+"$1,400,000","533 Valleyview Pl, Staten Island, NY 10314",3,4,"2,160","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$915,000","2764 Netherland Ave, Bronx, NY 10463",3,3,"1,560","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","190-05 39th Ave #140, Flushing, NY 11358",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,600,000","173 Ocean Ave, Staten Island, NY 10305",5,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$749,999","27 White Plains Ave, Staten Island, NY 10305",5,3,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$675,000","920 E 17th St APT 616, Brooklyn, NY 11230",2,2,"1,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","750 Park Ave #8D, New York, NY 10021",Studio,1,500,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,000","582 Van Siclen Ave #3, Brooklyn, NY 11207",3,1,805,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$3,790,000","143 Noble St, Brooklyn, NY 11222",4,4,"6,035","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,365,000","8767 23rd Ave, Brooklyn, NY 11214",4,3,"2,071","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$850,000","228 Edinboro Rd, Staten Island, NY 10306",0.25,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,275,000","88 77th St, Brooklyn, NY 11209",3,2,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,988,000","25 Montgomery Pl APT 1, Brooklyn, NY 11215",4,2,"2,285","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$860,000","13826 Redding St, Jamaica, NY 11417",5,3,"2,760","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$899,000","2734 E 64th St, Brooklyn, NY 11234",6,5,"2,120","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,850,000","107 E Broadway #3, New York, NY 10002",Studio,--,--,N/A
+"$525,000","23-35 Bell Blvd APT 6H, Bayside, NY 11360",3,2,"1,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$919,999","11 Fairview Pl, Brooklyn, NY 11226",4,3,"2,122","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$939,000","6138 Gates Ave, Flushing, NY 11385",7,2,"3,492","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$559,999","256 Chester St, Brooklyn, NY 11212",3,3,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$789,000","230 Forbell St, Brooklyn, NY 11208",5,4,"2,691","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$539,999","689 Vermont St, Brooklyn, NY 11207",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$810,000","1825 Madison Ave APT 9E, New York, NY 10035",2,2,886,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$764,000","3502 Fillmore Ave, Brooklyn, NY 11234",4,3,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$899,999","422 Barbey St, Brooklyn, NY 11207",8,4,"4,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$539,000","3605 Canal Ave, Brooklyn, NY 11224",3,2,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$998,000","3139 86th St, Flushing, NY 11369",3,3,"1,557","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$610,000","16 Station Ave, Staten Island, NY 10309",3,3,"1,288","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$999,999","11143 117th St, Jamaica, NY 11420",5,3,"1,874","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,287,888","4538 172nd St, Flushing, NY 11358",4,3,"2,400",https://photos.zillowstatic.com/fp/0c5248042ef458bdb2f7b6f7a28f8f76-p_e.jpg
+"$339,000","76-14 Springfield Blvd #152A1, Oakland Gardens, NY 11364",2,1,800,https://photos.zillowstatic.com/p_e/ISfsyph4s2d6151000000000.jpg
+"$569,000","130-30 130th St, Ozone Park, NY 11420",4,3,--,https://photos.zillowstatic.com/p_e/IS7a3vfnv76wll1000000000.jpg
+"$790,000","111 E 10th St APT 2, New York, NY 10003",1,1,400,https://photos.zillowstatic.com/p_e/ISz70hae28ip870000000000.jpg
+"$1,100,000","7905 21st Ave, East Elmhurst, NY 11370",3,2,"1,890",https://photos.zillowstatic.com/p_e/ISrd3hi8ybsof91000000000.jpg
+"$418,999","16221 Powells Cove Blvd #3S, Beechhurst, NY 11357",2,2,--,https://photos.zillowstatic.com/p_e/ISv8280kz10wfb0000000000.jpg
+"$1,495,000","531 Main St APT 915, New York City, NY 10044",3,3,"1,620",https://photos.zillowstatic.com/p_e/ISr90c10hla89c1000000000.jpg
+"$2,350,000","343 Hoyt St, Brooklyn, NY 11231",5,--,"2,280",https://photos.zillowstatic.com/fp/cbf535556ea7f56acff075475ee2a91e-p_e.jpg
+"$599,000","193 E 37th St #1, Brooklyn, NY 11203",3,3,"1,824",https://photos.zillowstatic.com/p_e/ISbd80byy6ynrq1000000000.jpg
+"$3,150,000","687 Humboldt St, Brooklyn, NY 11222",4,5,"2,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$749,000","1924 Kimball St, Brooklyn, NY 11234",3,3,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","1564 Unionport Rd, Bronx, NY 10462",1,1,630,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$795,000","99 Kingsland Ave APT 102, Brooklyn, NY 11222",Studio,--,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$689,000","712 E 211th St #2, Bronx, NY 10467",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$565,000","10804 Shore Front Pkwy #2B, Far Rockaway, NY 11694",2,2,"1,013","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,999","6721 242nd St, Douglaston, NY 11362",1,1,550,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,500,000","73 Calyer St, Brooklyn, NY 11222",8,5,"4,315","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,200,000","74 E 7th St, Brooklyn, NY 11218",5,3,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,499,999","4848 193rd St, Flushing, NY 11365",4,3,"2,496","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,025,000","126 Lincoln Ave, Staten Island, NY 10306",3,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,168,000","22-16 163rd St, Whitestone, NY 11357",3,3,"1,950","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$305,000","22122 Manor Rd #1902, Jamaica, NY 11427",3,1,900,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","4711 Avenue H, Brooklyn, NY 11234",2,2,810,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$359,900","49 Stone Ln, Staten Island, NY 10314",2,2,"1,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$768,000","2516 83rd St, East Elmhurst, NY 11370",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,289,000","2702 Humphrey St, Flushing, NY 11369",3,1,"1,870","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$675,000","186 Prospect Park W APT D1, Brooklyn, NY 11215",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$769,000","911 Arnow Ave, Bronx, NY 10469",6,4,"2,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$490,000","240 E 24th St APT 4E, New York, NY 10010",1,1,600,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","3009 Edson Ave, Bronx, NY 10469",3,3,"1,674","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$175,000","1430 Thieriot Ave APT 5K, Bronx, NY 10460",2,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,495,000","196 W 9th St, Brooklyn, NY 11231",6,3,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$529,999","124-09 Montauk Ave, Jamaica, NY 11413",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$545,000","14534 130th Ave, Jamaica, NY 11436",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$775,000","15 Glover St #A, Staten Island, NY 10308",4,4,"1,960","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$234,000","9524 Fort Hamilton Pkwy APT 403, Brooklyn, NY 11209",1,1,650,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$565,000","5455 Sylvan Ave, Riverdale, NY 10471",2,2,"5,428","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,998","11045 71st Rd APT 6R, Flushing, NY 11375",2,2,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$4,795,000","478 W Broadway #4N, New York, NY 10012",3,2,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,488,000","2930 172nd St, Flushing, NY 11358",4,4,"2,392","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,000","101 Lafayette Ave #I8, Brooklyn, NY 11217",Studio,1,--,N/A
+"$865,000","2358 E 70th St, Brooklyn, NY 11234",3,3,"1,836",https://photos.zillowstatic.com/fp/9c08f75f6f00610512a276527697ea79-p_e.jpg
+"$1,925,000","3222 162nd St, Flushing, NY 11358",5,5,"2,759",https://photos.zillowstatic.com/fp/758fdf3528318ee5f9eebf5e97021560-p_e.jpg
+"$225,000","9921 67th Rd APT 3E, Flushing, NY 11375",Studio,1,650,https://photos.zillowstatic.com/p_e/ISbhrdlzt7vurm1000000000.jpg
+"$849,000","127-07 97th Ave, South Richmond Hill, NY 11419",6,3,"2,000",https://photos.zillowstatic.com/p_e/ISjb8tec7pzvqn0000000000.jpg
+"$360,000","30 Bay 29th St APT 6G, Brooklyn, NY 11214",1,1,"1,020",https://photos.zillowstatic.com/fp/45f5ef1a8ea664eaad695a698a16ff26-p_e.jpg
+"$1,600,000","5775 Cloverdale Blvd, Bayside, NY 11364",7,5,--,https://photos.zillowstatic.com/fp/47731a45f7034783d99bcc9e13d2c09b-p_e.jpg
+"$2,950,000","214 W 17th St APT 1A, New York, NY 10011",3,3,"2,790",https://photos.zillowstatic.com/p_e/IS3fg9ygu1hz3m1000000000.jpg
+"$775,000","575 Grand St APT E1001, New York, NY 10002",2,1,"1,050",https://photos.zillowstatic.com/p_e/ISf48he7rbvy4g0000000000.jpg
+"$950,000","1678 Grand Ave, Bronx, NY 10453",9,5,"4,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$579,900","322 Grasmere Dr, Staten Island, NY 10305",4,3,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,650,000","80 Dover St, Brooklyn, NY 11235",3,4,"2,578","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$689,000","3 Williams Ct, Far Rockaway, NY 11691",4,3,"1,968","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$488,808","72 Glover St, Staten Island, NY 10308",3,2,"1,069","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$836,000","182 Olympia Blvd, Staten Island, NY 10305",4,4,"2,524","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$755,000","264 Mallory Ave, Staten Island, NY 10305",5,2,"2,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$380,000","4335 Union St, Flushing, NY 11355",2,1,"146,735","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$875,000","760 E 222nd St, Bronx, NY 10467",9,3,"3,465","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$638,800","244 Amboy St, Brooklyn, NY 11212",4,2,"1,696","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$800,000","406 E 73rd St APT 4F, New York, NY 10021",2,1,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$999,000","25 Garden Ct, Far Rockaway, NY 11691",5,3,"2,346",N/A
+"$1,279,888","151 Noel St, Staten Island, NY 10312",5,4,"3,819","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$920,000","4718 189th St, Flushing, NY 11358",3,3,"1,600",N/A
+"$595,000","2851 Bainbridge Ave, Bronx, NY 10458",8,6,"4,841","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$979,999","19 Pine St, Brooklyn, NY 11208",7,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,999","622 Wallabout St, Brooklyn, NY 11206",888,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,299,000","3312 69th St, Flushing, NY 11377",5,2,"2,014","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,495,000","1623 3rd Ave APT 6F, New York, NY 10128",3,2,"1,175",N/A
+"$630,000","78-30 88th Ave, Woodhaven, NY 11421",4,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,000,000","2016 Blackrock Ave, Bronx, NY 10472",7,5,"3,618",N/A
+"$619,000","122 Mountainview Ave, Staten Island, NY 10314",3,2,"1,754","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$340,000","24236 Horace Harding Expwy, Little Neck, NY 11362",2,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$310,000","45 Tudor City Pl APT 1508, New York, NY 10017",Studio,1,350,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,000","7903 262nd St, Floral Park, NY 11004",4,2,"5,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$488,000","6441 Saunders St APT 615, Flushing, NY 11374",2,2,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","68 Draper Pl, Staten Island, NY 10314",4,2,"1,900",N/A
+"$450,000","4114 Paulding Ave, Bronx, NY 10466",3,2,"1,392","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$863,000","260 Avenue S, Brooklyn, NY 11223",3,3,"1,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$378,000","1646 200th St FLOOR 1, Bayside, NY 11360",2,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$508,000","3445 Leavitt St #6D, Flushing, NY 11354",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$300,000","350 Richmond Ter APT 3V, Staten Island, NY 10301",2,2,"1,086",https://photos.zillowstatic.com/p_e/ISnm7j04ojnov11000000000.jpg
+"$539,000","1793 Patterson Ave FLOOR 1, Bronx, NY 10473",4,3,"1,728",https://photos.zillowstatic.com/p_e/ISv8e1f0x2dfws0000000000.jpg
+"$390,000","21-80 33rd Rd APT 6C, Astoria, NY 11106",1,1,700,https://photos.zillowstatic.com/fp/d9143a7cc857f9f40f8bdd12f52f3276-p_e.jpg
+"$539,000","1793 Patterson Ave, Bronx, NY 10473",4,3,"1,708",https://photos.zillowstatic.com/fp/08968c3a6a370545923cf2ffa8824234-p_e.jpg
+"$1,025,000","540 W 28th St #2C, New York, NY 10001",1,1,765,https://photos.zillowstatic.com/fp/5ed5ef7687b3ab98629d9905916df5ae-p_e.jpg
+"$329,000","83-40 Austin St APT 3H, Kew Gardens, NY 11415",2,1,--,https://photos.zillowstatic.com/fp/0f48bf442d2158f5f55b9c64e565d8ef-p_e.jpg
+"$988,000","27 Tremont Ave, Staten Island, NY 10314",5,5,"3,100",https://photos.zillowstatic.com/fp/234a5b11cbcc2d20f5d81d124ea3a193-p_e.jpg
+"$360,000","98-41 64th Rd APT 5F, Rego Park, NY 11374",1,1,750,https://photos.zillowstatic.com/fp/2636f248a38d46863ecd986fd2cd3710-p_e.jpg
+"$1,100,000","34 Crooke Ave PENTHOUSE A, Brooklyn, NY 11226",2,2,"1,030",https://photos.zillowstatic.com/p_e/ISvgomkl9x2u391000000000.jpg
+"$399,999","1805 215th St APT 6R, Bayside, NY 11360",1,1,930,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,000","6750 Thornton Pl APT 3R, Flushing, NY 11375",2,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$950,000","8313 Myrtle Ave, Glendale, NY 11385",7,2.5,"2,230","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,170,000","201 E 21st St APT 11R, New York, NY 10010",2,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,195","150-40 71st Ave #11, Flushing, NY 11367",1,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","2260 Burnett St APT 2J, Brooklyn, NY 11229",1,1,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$289,900","268 Bay 17th St APT A1, Brooklyn, NY 11214",1,1,700,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,450,000","2682 E 64th St, Brooklyn, NY 11234",4,3,"2,576","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$539,000","4425 Edson Ave, Bronx, NY 10466",3,3,"1,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$855,000","1582 Pacific St, Brooklyn, NY 11213",3,3,"2,250",N/A
+"$729,000","2394 Mott Ave, Far Rockaway, NY 11691",6,2,"2,064","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$259,900","1345 E 4th St APT 1B, Brooklyn, NY 11230",1,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$735,000","9003 Albert Rd, Jamaica, NY 11417",4,3,"1,960","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$915,000","328 74th St APT 3, Brooklyn, NY 11209",2,2,"1,161","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$769,000","54 Gold Ave, Staten Island, NY 10312",4,4,"1,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$185,000","113-15 34th Ave APT 4B, Corona, NY 11368",2,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,150,000","1018 41st St APT 4B, Brooklyn, NY 11219",5,3,"2,400",N/A
+"$750,000","329 E 28th St, Brooklyn, NY 11226",3,2,"1,378","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$806,000","345 E 93rd St APT 22E, New York, NY 10128",1,1,650,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$855,000","79-13 Rockaway Blvd, Woodhaven, NY 11421",3,3,"1,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$899,999","1318 Putnam Ave #1, Brooklyn, NY 11221",4,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$720,000","3108 Sands Pl, Bronx, NY 10461",4,2,"1,900","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$824,000","9114 Holland Ave, Rockaway Beach, NY 11693",3,2,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$615,000","3254 Layton Ave, Bronx, NY 10465",3,2,"1,678","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$819,900","7847 79th Pl, Glendale, NY 11385",3,2,"1,680","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,999","174 Kennington St, Staten Island, NY 10308",4,2,"1,680",N/A
+"$475,000","72 Cassidy Pl, Staten Island, NY 10301",4,2,"1,920",N/A
+"$387,500","2004 Arthur Kill Rd, Staten Island, NY 10312",2,2,"1,008","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$629,000","1126 Arthur Kill Rd, Staten Island, NY 10312",5,3,"2,016","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$308,888","224-42 Horace Harding Expwy UNIT 626, Bayside, NY 11364",2,1,700,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$719,000","1069 Armstrong Ave, Staten Island, NY 10308",6,3,"1,736","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$749,998","2408 Ocean Ave APT 5, Brooklyn, NY 11229",3,3,"1,416",https://photos.zillowstatic.com/fp/43b725854c3d80c61d9d326a8484752e-p_e.jpg
+"$879,999","2449 Brigham St, Brooklyn, NY 11235",4,2,"2,056",https://photos.zillowstatic.com/p_e/IS3r9kvc6qamf90000000000.jpg
+"$1,388,000","377 Rector Pl APT 20B, New York, NY 10280",2,1,821,https://photos.zillowstatic.com/fp/b95c55bde46ae32fe73d2f1cf7541efd-p_e.jpg
+"$849,000","215 E 80th St APT 9, New York, NY 10075",1,1,648,https://photos.zillowstatic.com/p_e/IS3rxa05wep2pw1000000000.jpg
+"$1,048,000","1407 Overing St, Bronx, NY 10461",8,6,"3,051",https://photos.zillowstatic.com/p_e/ISnmzkc0o82acy0000000000.jpg
+"$1,350,000","1115 129th St, Flushing, NY 11356",8,3,"3,300",https://photos.zillowstatic.com/fp/12d54e5af60525419f0681246fd9dd2f-p_e.jpg
+"$1,025,000","540 W 28th St APT 2C, New York, NY 10001",1,1,765,https://photos.zillowstatic.com/p_e/ISbp1japyus25k1000000000.jpg
+"$650,000","454 Drumgoole Rd W, Staten Island, NY 10312",4,2,"2,000",https://photos.zillowstatic.com/fp/98ec29364555201e26c116e13deac9f5-p_e.jpg
+"$295,000","2435 Haring St APT 3D, Brooklyn, NY 11235",2,1,950,https://photos.zillowstatic.com/p_e/ISrhq9jbdlqnf80000000000.jpg
+"$4,495,000","114 1st Pl, Brooklyn, NY 11231",10,4,"5,340","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,850,000","14722 Ash Ave, Flushing, NY 11355",6,3,"2,731","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,900,000","8440 60th Rd, Flushing, NY 11379",8,6,"3,210",N/A
+"$899,000","230 Jay St APT 10C, Brooklyn, NY 11201",2,2,"1,043","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$5,950,000","140 Charles St PENTHOUSE C, New York, NY 10014",2,2,"2,651","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$825,000","1976 E 16th St, Brooklyn, NY 11229",3,2,"1,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,499,999","2351 Adam Clayton Powell Jr Blvd PENTHOUSE 6, New York, NY 10030",3,2,"1,393","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","166 W 22nd St APT 6D, New York, NY 10011",Studio,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,999","6127 224th St, Bayside, NY 11364",3,1,900,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","226-56 Kingsbury Ave UNIT A, Bayside, NY 11364",2,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$779,000","3138 Avenue W, Brooklyn, NY 11229",3,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$552,000","360 Crescent St, Brooklyn, NY 11208","4,000",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,100,000","1416 Willoughby Ave, Brooklyn, NY 11237",3,4,"1,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,100,000","5917 Parsons Blvd, Flushing, NY 11365",4,3,"1,428","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$559,000","1039 E 219th St, Bronx, NY 10469",3,2,"3,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$385,000","226-56 Kingsbury Ave UNIT A, Oakland Gardens, NY 11364",2,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,450,000","40 Dintree Ln, Staten Island, NY 10307",5,4,"5,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,200,000","119 Saint Pauls Ave, Staten Island, NY 10301",8,4,"3,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,200,000","1083 Victory Blvd, Staten Island, NY 10301",2,2,"1,005","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$549,000","3409 Edson Ave, Bronx, NY 10469","9,900",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$238,000","99-45 67th Rd APT 620, Forest Hills, NY 11375",Studio,1,550,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$859,000","16401 Grand Central Pkwy, Jamaica Estates, NY 11432",4,3,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$750,000","300 Rector Pl APT 8H, New York, NY 10280",1,1,625,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$895,000","138 Woolley Ave, Staten Island, NY 10314",3,1,"3,870","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$335,000","555 Kappock St APT 9H, Bronx, NY 10463",2,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,000","580 Van Siclen Ave #2, Brooklyn, NY 11207",3,1,805,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,200,000","291 Gates Ave, Brooklyn, NY 11216",4,4,"2,880","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$639,000","95-13 84th St, Ozone Park, NY 11416",3,2,"1,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,690,000","145-03 22nd Ave, Whitestone, NY 11357",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$745,000","2523 120th St, Flushing, NY 11354",3,2,"1,268",N/A
+"$429,000","84 Vogel Loop, Staten Island, NY 10314",2,2,"1,515","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","13240 Sanford Ave, Flushing, NY 11355",1,1,480,https://photos.zillowstatic.com/p_e/ISnmz0xe1yhwng0000000000.jpg
+"$859,000","298 W 234th St, Bronx, NY 10463",3,2,"1,650",https://photos.zillowstatic.com/fp/9af1845e2f3f91e6714f43baf7005da4-p_e.jpg
+"$899,000","196 Eldert Ln FLOOR 2, Brooklyn, NY 11208",6,2,"2,570",https://photos.zillowstatic.com/p_e/IS76w2mqzr5u9j0000000000.jpg
+"$1,500,000","8821 190th St, Jamaica, NY 11423",6,3,"2,690",N/A
+"$279,000","67-27 152nd St #208B, Flushing, NY 11367",1,1,750,https://photos.zillowstatic.com/p_e/ISv8ud3867yjwh1000000000.jpg
+"$738,999","1833 79th St, Brooklyn, NY 11214",3,2,"1,150",https://photos.zillowstatic.com/fp/5c573b7f5ad9b463664e42803bc3f001-p_e.jpg
+"$975,000","2251 Cornaga Ave, Queens, NY 11691",11,5,"2,340",https://photos.zillowstatic.com/fp/f4a9d8c45ce66bbaae34f8e543f43078-p_e.jpg
+"$295,000","14461 Village Rd APT 28D, Jamaica, NY 11435",2,1,"1,200",https://photos.zillowstatic.com/fp/fbe45dd271268fe438f6ebfd04ac0aa7-p_e.jpg
+"$1,975,000","304 18th St, Brooklyn, NY 11215",3,3,"2,200",https://photos.zillowstatic.com/fp/648eb19d1fc09d56c71c1fa0e7fac856-p_e.jpg
+"$487,000","74-02 43rd Ave #1C, Elmhurst, NY 11373",2,2,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$850,000","10909 15th Ave #S307, College Point, NY 11356",2,2,"1,038","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,480,500","2202 Avenue T, Brooklyn, NY 11229",3,3,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","57-60 246th Cres #E2, Little Neck, NY 11362",1,1,625,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,200,000","1837 Burnett St, Brooklyn, NY 11229",4,4,"2,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,000","1337 Saint Marks Ave, Brooklyn, NY 11233",3,2,"1,396","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$775,000","415 Cromwell Ave, Staten Island, NY 10305",4,4,"1,472","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,200,000","48 Clove Rd, Brooklyn, NY 11225",9,6,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$998,000","7422 65th St, Glendale, NY 11385",6,3,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$879,000","82-65 165th Sthillcrest, Hillcrest, NY 11432",3,3,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$477,500","240 E 46th St #8Z, New York, NY 10017",Studio,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$638,000","161 Presentation Cir, Staten Island, NY 10312",3,2.25,"1,991","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,499,000","546 E 3rd St, Brooklyn, NY 11218",6,3,"2,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$890,000","1840 Haring St, Brooklyn, NY 11229",3,3,"1,890","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,000","9513 123rd St, Jamaica, NY 11419",3,3,"1,632","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,549,000","130 Barrow St APT 304, New York, NY 10014",2,1,885,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,250,000","176 Broadway APT 3C, New York, NY 10038",Studio,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,000","1594 Metropolitan Ave APT 4E, Bronx, NY 10462",3,1,979,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$495,000","11429 204th St, Jamaica, NY 11412",3,2,"1,652","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,895,000","535 Dean St APT 902, Brooklyn, NY 11217",3,2,"1,462","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,288,888","9-04 127th St, College Pt, NY 11356",2,2,"5,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$899,000","372 Dekalb Ave APT 2E, Brooklyn, NY 11205",2,2,"1,126","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$789,000","28-30 Culotta Ln, Staten Island, NY 10309",4,4,"1,536","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$578,000","370 E 76th St APT B507, New York, NY 10021",1,1,550,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$474,900","6 New Ln APT 6I, Staten Island, NY 10305",2,2,"1,113","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,999","118-22 225th St, Queens, NY 11411",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,200,000","234 W 21st St APT 31, New York, NY 10011",2,1,755,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,075,000","276 13th St APT 3C, Brooklyn, NY 11215",2,2,960,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$828,000","1176 E 31st St, Brooklyn, NY 11210",3,2,"1,428","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,875,000","366 E 8th St APT 3, New York, NY 10009",2,2,"1,396","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$655,000","8940 90th St, Jamaica, NY 11421",3,4,"1,138","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,500,000","809 Ocean Pkwy, Brooklyn, NY 11230",5,2,"1,933",N/A
+"$939,000","15929 92nd St, Jamaica, NY 11414",5,3,--,https://photos.zillowstatic.com/p_e/IS3fofcm325kff1000000000.jpg
+"$800,000","14 Saint Marks Pl, Staten Island, NY 10301",5,4,"2,300",https://photos.zillowstatic.com/fp/68c454616c10993cfbc53d1928217301-p_e.jpg
+"$1,100,000","10114 134th St, Jamaica, NY 11419",6,3,"2,600",https://photos.zillowstatic.com/fp/a39d5604be37302b1805a947bc5632f5-p_e.jpg
+"$735,000","109-50 217th St #1, Queens Village, NY 11429",5,3,"2,200",N/A
+"$780,000","7818 64th Ln, Glendale, NY 11385",4,2,"1,588",https://photos.zillowstatic.com/fp/efe2fef177eedf6bf17705fa0f431508-p_e.jpg
+"$320,000","217-03 75th Ave #356A2, Oakland Gardens, NY 11364",2,1,720,https://photos.zillowstatic.com/fp/09ba0317ac9b18ee1f33cfaa370835ca-p_e.jpg
+"$398,000","110-20 71st Avenue #502, Forest Hills, NY 11375",1,1,900,https://photos.zillowstatic.com/p_e/ISfcya9qui4bdh1000000000.jpg
+"$365,000","8375 Woodhaven Blvd APT 6C, Woodhaven, NY 11421",2,1,"170,772",https://photos.zillowstatic.com/p_e/ISmyo0b9lseh951000000000.jpg
+"$729,999","187 Olympia Blvd, Staten Island, NY 10305",4,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$725,000","240 E 46th St APT 1D, New York, NY 10017",2,1,720,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$637,500","1537 Commonwealth Ave, Bronx, NY 10460",4,2,"1,572","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$750,000","134 W 180th St, Bronx, NY 10453",5,3,"2,998",N/A
+"$1,100,000","1021 E 29th St, Brooklyn, NY 11210",5,3,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$555,000","175 Adams St APT 11F, Brooklyn, NY 11201",1,1,675,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$528,000","3205 Linden Pl APT D1, Flushing, NY 11354",2,1,753,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$339,000","1242 Prospect Ave #3D, Bronx, NY 10459",3,2,"1,068","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$959,000","1717 Marine Pkwy, Brooklyn, NY 11234",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$149,000","1522 New Haven Ave, Far Rockaway, NY 11691","2,097",N/A,N/A,N/A
+"$1,399,000","85 Adams St APT 2D, Brooklyn, NY 11201",2,2,"1,169","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,000","1743 Edenwald Ave, Bronx, NY 10466",4,2,"1,700",N/A
+"$5,400,000","6 W 20th St FL 5, New York, NY 10011",6,2,"5,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$459,000","4440 Seton Ave, Bronx, NY 10466",2,2,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$590,000","13741 232nd St, Laurelton, NY 11413",3,2,"1,316","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$939,000","159-29 92nd St, Howard Beach, NY 11414",5,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,725,000","2271 80th St, Brooklyn, NY 11214",9,5,"2,904","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,950,000","810 E 165th St, Bronx, NY 10459","1,999",N/A,N/A,N/A
+"$958,888","491 Mason Ave, Staten Island, NY 10305",4,5,"2,120",N/A
+"$1,199,999","21 India St #30B, Brooklyn, NY 11222",1,1,741,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,192,500","71 Grand Ave APT 1, Staten Island, NY 10301",5,4,"5,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,899,999","1637 E 7th St, Brooklyn, NY 11230",5,2,"2,684",N/A
+"$329,900","32-20 91st St APT 308, East Elmhurst, NY 11369",2,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,625,000","15 Broad St APT 1400, New York, NY 10005",2,2,"1,576","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,050,000","1863 W 10th St, Brooklyn, NY 11223",6,3,"1,690","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$249,999","7124 252nd St #2, Bellerose, NY 11426",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,350,000","4572 Browvale Ln, Flushing, NY 11362",3,3,"2,310","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$235,000","33-47 91st St APT 2E, Jackson Heights, NY 11372",1,1,600,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$378,000","15040 71st Ave APT 2K, Flushing, NY 11367",2,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$750,000","1287 E 19th St #3B, Brooklyn, NY 11230",2,2,"1,063","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","105 Gain Ct, Brooklyn, NY 11229",2,2,"1,248","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$733,000","1746 Van Buren St, Bronx, NY 10460",8,3,"3,388",https://photos.zillowstatic.com/fp/10a61f2a0283d2246e52781ebdc2318e-p_e.jpg
+"$545,000","14542 130th Ave, Jamaica, NY 11436",3,3,--,https://photos.zillowstatic.com/p_e/ISnmvhry0q7xgw0000000000.jpg
+"$869,000","48 Russek Dr, Staten Island, NY 10312",4,2,"2,545",https://photos.zillowstatic.com/fp/1cec3bae1cd3fde84441a22835b259e2-p_e.jpg
+"$1,399,000","5805 69th Ave, Flushing, NY 11385",7,3,"5,070",https://photos.zillowstatic.com/fp/d633339df294e44f0701e61815f97b43-p_e.jpg
+"$359,000","1 Cass Pl, Brooklyn, NY 11235",2,1,"1,100",https://photos.zillowstatic.com/p_e/ISv4v3tk36y9rd1000000000.jpg
+"$1,275,000","119 Woodbine St, Brooklyn, NY 11221",6,3,"2,532",https://photos.zillowstatic.com/fp/e2585ac811091007c4f708ce57b7fc6d-p_e.jpg
+"$525,000","225 Adams St APT 4F, Brooklyn, NY 11201",1,1,640,https://photos.zillowstatic.com/fp/d7457ce80184be9fa873964bf4919225-p_e.jpg
+"$610,000","10812 Inwood St, Jamaica, NY 11435",2,3,"1,297",https://photos.zillowstatic.com/fp/a4e918b83e1c20a51b40d10624683c05-p_e.jpg
+"$365,000","83-05 98th St #4-D, Woodhaven, NY 11421",2,1,--,https://photos.zillowstatic.com/p_e/ISbl21y2t3r4g80000000000.jpg
+"$949,000","225 W 70th St APT 2B, New York, NY 10023",1,2,"22,626","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$595,000","500 W 43rd St APT 20D, New York, NY 10036",Studio,1,400,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$849,000","1055 E 40th St, Brooklyn, NY 11210",5,2,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","243 78th St APT 5H, Brooklyn, NY 11209",1,1,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$619,000","4020 Hubbard Pl, Brooklyn, NY 11210",4,1,"1,902","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,249,000","104 Main St, Staten Island, NY 10307",6,4,"4,684",N/A
+"$1,399,000","1715 71st St, Brooklyn, NY 11204",3,2,"1,769","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$395,000","310 E 49th St APT 10-B, New York, NY 10017",Studio,1,600,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,395,000","3146 Bedford Ave, Brooklyn, NY 11210",4,2,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$388,000","29-50 137th St APT 4F, Flushing, NY 11354",2,2,--,N/A
+"$650,000","101-34 109th St, Richmond Hill, NY 11419",4,2,--,N/A
+"$859,000","1108 Stratford Ave, Bronx, NY 10472",7,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,000","1047 Faile St #1047A, Bronx, NY 10459",2,1,764,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$480,000","160 W End Ave APT 30L, New York, NY 10023",Studio,1,530,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,450,000","4117 18th Ave, Brooklyn, NY 11218",6,2,"2,290","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$629,000","3410 75th St APT 6K, Jackson Heights, NY 11372",2,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,388,888","182 Mulberry St APT 4, New York, NY 10012",2,2,"1,505","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$709,000","61 Arden Ave, Staten Island, NY 10312",4,4,"1,940","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,600,000","217-12 Hempstead Ave, Queens Village, NY 11429",4,3,"2,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,900,000","144-08A Liberty Ave, Jamaica, NY 11435",8,5,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","7 Father Capodanno Blvd, Staten Island, NY 10305",3,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$169,000","2215 Cruger Ave APT 6C, Bronx, NY 10467",1,1,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$439,000","6417 72nd St APT 3D, Middle Village, NY 11379",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$715,000","3409 Fillmore Ave, Brooklyn, NY 11234",3,4,"1,200",N/A
+"$275,000","1460 Parkchester Rd APT 5C, Bronx, NY 10462",2,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$440,000","2932 W 5th St, Brooklyn, NY 11224",2,1,"1,050","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$749,000","19805 Hollis Ave, Jamaica, NY 11412",5,4,"2,585","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,800,000","135 Henry St APT 5, Brooklyn, NY 11201",2,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,130,000","2381 Ocean Ave APT 8C, Brooklyn, NY 11229",3,3,"2,113","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$875,000","552 Chestnut St, Brooklyn, NY 11208",4,3,"2,695","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$3,799,990","455 Franklin Ave, Brooklyn, NY 11238",10,11,"5,995","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,234,000","2306 Bath Ave, Brooklyn, NY 11214",2,2,"1,950",https://photos.zillowstatic.com/fp/2597880990661f2b76e1a6f0795d4724-p_e.jpg
+"$899,999","1313 Avenue Y, Brooklyn, NY 11235",3,2,"1,312",https://photos.zillowstatic.com/fp/7302d91c2ce3f2541df6dd07862e99a9-p_e.jpg
+"$649,900","46 Jumel St, Staten Island, NY 10308",3,3,"1,536",https://photos.zillowstatic.com/fp/e18a6b3339dd583d05c79eb4e93f86ac-p_e.jpg
+"$635,000","14238 37th Ave #5, Flushing, NY 11354",1,1,401,https://photos.zillowstatic.com/p_e/ISzzhx0lnzbi610000000000.jpg
+"$3,499,000","62 E 1st St APT 1N, New York, NY 10003",2,3,"1,790",https://photos.zillowstatic.com/p_e/ISvcx67mhkgm570000000000.jpg
+"$765,000","1464 E 70th St, Brooklyn, NY 11234",3,2,"1,683",https://photos.zillowstatic.com/fp/354d0da0c18f310e0247d0789ca8c858-p_e.jpg
+"$299,000","3815 149th St APT 5V, Flushing, NY 11354",1,1,"114,151",https://photos.zillowstatic.com/p_e/ISz3dgr3jdh8dc0000000000.jpg
+"$1,495,000","440 Kent Ave #1C, Brooklyn, NY 11249",2,2,"1,175",https://photos.zillowstatic.com/fp/5db96b398b36384f8679fa958eca8052-p_e.jpg
+"$510,000","11529 146th St, Jamaica, NY 11436",3,2,"1,024",https://photos.zillowstatic.com/fp/68f02da4ee9d4ad52ef6458d16cfc36d-p_e.jpg
+"$324,000","9737 63rd Rd #6M, Rego Park, NY 11374",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$639,000","1413 Reed Pl #A, Bronx, NY 10465",3,2,"1,800",N/A
+"$990,000","244 Roma Ave, Staten Island, NY 10306",3,4,"1,750","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,995,000","296 Atlantic Ave APT 1, Brooklyn, NY 11201",4,2,"3,420","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,000","144-14 77th Rd APT 1B, Flushing, NY 11367",2,1,880,N/A
+"$328,888","7378 Springfield Blvd #2, Bayside, NY 11364",2,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$250,000","1563 Metropolitan Ave APT 6G, Bronx, NY 10462",2,1,900,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$740,000","177 Finley Ave, Staten Island, NY 10306",5,2,"2,148","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$925,000","399 E 72nd St APT 16H, New York, NY 10021",2,1,981,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$378,500","3111 Brighton 2nd St APT 1C, Brooklyn, NY 11235",2,1,"1,150","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,300,000","16515 Cross Island Pkwy, Flushing, NY 11357",2,--,"2,451",N/A
+"$435,000","450 Englewood Ave, Staten Island, NY 10309",1.01,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$449,000","4401 4th Ave APT B5, Brooklyn, NY 11220",1,1,500,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$4,895,000","170 E 87th St APT E8A, New York, NY 10128",4,4,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,000","50 Brighton 1st Rd, Brooklyn, NY 11235",1,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$4,499,999","876 58th St, Brooklyn, NY 11220",12,4,"4,640","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$269,000","2615 Homecrest Ave APT 6C, Brooklyn, NY 11235",1,1,720,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$4,500,000","224 Withers St, Brooklyn, NY 11211",8,6,"4,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$225,000","97-40 62nd Drive, Rego Park, NY 11374",Studio,1,650,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,999","3416 Barker Ave, Bronx, NY 10467",6,4,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$558,000","13222 Sanford Ave APT 3R, Flushing, NY 11355",1,1,624,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$670,000","244-19 135th Ave, Rosedale, NY 11422",3,3,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$559,000","4555 Henry Hudson Pkwy APT 1109, Bronx, NY 10471",3,2,"1,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","3225 88th St, East Elmhurst, NY 11369",1,1,700,N/A
+"$1,175,000","198-37 50th Ave, Fresh Meadows, NY 11365",4,2,"1,190","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$999,999","1933 Vyse Ave, Bronx, NY 10460",7,4,"3,321","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$525,000","1756 Ocean Ave #3D, Brooklyn, NY 11230",2,1,792,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$910,000","302 W 79th St APT 2A, New York, NY 10024",2,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$929,000","853 Lenox Rd, Brooklyn, NY 11203",5,2,"4,140",N/A
+"$875,000","1285 Hoe Ave, Bronx, NY 10459",10,4,"3,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,625,000","11-02 49th Ave #9A, Long Island City, NY 11101",2,2,"1,338","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,150,000","7516 64th Pl, Glendale, NY 11385",6,3,"1,553",https://photos.zillowstatic.com/fp/e570009b1228bb19743e849612172de5-p_e.jpg
+"$798,000","859 E 164th St, Bronx, NY 10459",7,4,"3,000",https://photos.zillowstatic.com/fp/4f5df1240fd52e55dcca7c3e5fe820fa-p_e.jpg
+"$280,000","70 Park Ter E APT 6G, New York, NY 10034",Studio,1,475,https://photos.zillowstatic.com/p_e/ISvww775wvq1oq0000000000.jpg
+"$799,000","349 E 59th St, Brooklyn, NY 11203",3,4,"1,732",https://photos.zillowstatic.com/fp/eafa353fe51622fa346eba256eeb871d-p_e.jpg
+"$1,600,000","181 Hester St APT 3A, New York, NY 10013",--,1,500,https://photos.zillowstatic.com/fp/cb79b3741534bdf38e538f77cc67617c-p_e.jpg
+"$1,375,000","1914 Cornelia St, Ridgewood, NY 11385",5,3,"2,189",https://photos.zillowstatic.com/p_e/ISzzh92e8g4ij01000000000.jpg
+"$1,500,000","5021 65th Pl, Flushing, NY 11377",5,3,"2,680",N/A
+"$1,250,000","2951 Brighton 8th St, Brooklyn, NY 11235","3,600",N/A,N/A,https://photos.zillowstatic.com/fp/396e463f7db318532c8a01838bf01fe5-p_e.jpg
+"$1,650,000","1438 65th St, Brooklyn, NY 11219",7,4,"3,200",https://photos.zillowstatic.com/fp/41050876a8d6f1d5823c9fb4b981667a-p_e.jpg
+"$1,100,000","59-17 Parsons Blvd, Fresh Meadows, NY 11365",4,3,"1,428","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,500,000","523 Rutland Rd, Brooklyn, NY 11203",6,4,"2,500","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$929,000","1692 Weeks Ave, Bronx, NY 10457",8,3,"3,066","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,200,000","1012 Clintonville St, Flushing, NY 11357",2,2,"1,310",N/A
+"$990,000","10524 Flatlands 4th St, Brooklyn, NY 11236",6,5,"2,508",N/A
+"$1,249,000","13827 91st Ave, Jamaica, NY 11435",8,4,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,449,000","3604 13th Ave, Brooklyn, NY 11218",3,2,"2,502","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$957,000","4028 College Point Blvd APT 1607, Flushing, NY 11354",2,2,"1,059","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$784,000","621 Manor Rd, Staten Island, NY 10314",4,3,"1,985","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$829,000","20 W 64th St APT 25N, New York, NY 10023",1,--,550,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,090,000","214-39 39th Ave, Bayside, NY 11361","3,500",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,500,000","2174 Bathgate Ave, Bronx, NY 10457",12,6,"4,375","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$680,000","2113 Mermaid Ave, Brooklyn, NY 11224",3,2,"1,344",N/A
+"$1,500,000","1261 41st St, Brooklyn, NY 11218",5,3,"2,352",N/A
+"$1,650,000","1186 Bay St, Staten Island, NY 10305",7,4,"2,000",N/A
+"$460,000","4002 7th Ave APT 37, Brooklyn, NY 11232",1,1,570,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$488,888","4045 68th St APT 4A, Flushing, NY 11377",1,1,613,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$849,999","682 Georgia Ave, Brooklyn, NY 11207",5,3,"2,928","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$650,000","123 Hendricks Ave, Staten Island, NY 10301",3,4,"2,520","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,389,000","5907 20th Ave, Brooklyn, NY 11204",3,3,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,546,088","2458 E 7th St, Brooklyn, NY 11235",4,2,"3,056",N/A
+"$599,000","2565 W 17th St #2B, Brooklyn, NY 11214",2,1,820,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$889,999","1344 E 100th St, Brooklyn, NY 11236",7,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$465,000","8610 Dumont Ave #5A, Jamaica, NY 11417",2,2,"1,152",N/A
+"$1,389,000","62-22 60th Ave #2, Maspeth, NY 11378",5,5,"3,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$799,999","14636 176th St, Jamaica, NY 11434",4,2,"1,020","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$549,910","244 Madison Ave APT 5C, New York, NY 10016",Studio,1,600,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$749,999","432 Linden Blvd, Brooklyn, NY 11203",3,--,"1,550","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,000","350 Richmond Ter APT 1E, Staten Island, NY 10301",1,1,734,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$313,000","73-55 217th St #362A1, Oakland Gardens, NY 11364",2,1,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$915,000","964 E 32nd St #964, Brooklyn, NY 11210",3,3,"2,700",N/A
+"$989,999","1173 E 87th St, Brooklyn, NY 11236",5,3,--,https://photos.zillowstatic.com/p_e/ISr9gk66pf5frx0000000000.jpg
+"$385,000","2908 139th St APT 3B, Flushing, NY 11354",3,1,"184,694",https://photos.zillowstatic.com/p_e/ISbtg1a6pd9flg1000000000.jpg
+"$850,000","8803 Sabre St, Queens, NY 11427",6,3,"1,100",N/A
+"$250,000","8111 45th Ave APT 8V, Flushing, NY 11373",Studio,1,450,https://photos.zillowstatic.com/p_e/ISblqftr8d8n8w1000000000.jpg
+"$819,000","868 E 164th St, Bronx, NY 10459",13,3,"3,072",N/A
+"$1,434,000","77 W 55th St APT 4B, New York, NY 10019",2,2,"1,200",https://photos.zillowstatic.com/fp/a53aaa6ef7f3594d926e14f22775c7e6-p_e.jpg
+"$395,000","166 E 61st St APT 7D, New York, NY 10065",Studio,1,550,https://photos.zillowstatic.com/p_e/IS3jn9ukf68r3j0000000000.jpg
+"$1,325,000","11 Riverside Dr APT 12UW, New York, NY 10023",1,1,--,https://photos.zillowstatic.com/p_e/ISfglb4iz2yfyd0000000000.jpg
+"$1,299,999","75 E End Ave APT 2G, New York, NY 10028",2,2,"1,002",https://photos.zillowstatic.com/fp/403e1fb63acd1833fc52a9ece83301ad-p_e.jpg
+"$315,000","2425 Haring St APT 6, Brooklyn, NY 11235",2,1,930,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$849,000","1985 New York Ave, Brooklyn, NY 11210",3,2,"1,274",N/A
+"$575,000","1010 Dr Martin L King Jr Blvd, Bronx, NY 10452","2,075",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$479,000","3536 76th St APT 405, Flushing, NY 11372",2,1,880,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,100,000","273 Sumpter St, Brooklyn, NY 11233",8,3,"3,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$204,999","2241 Plumb 1st St APT 3K, Brooklyn, NY 11229",1,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,249,000","13827 91st Ave, Jamaica, NY 11435",8,4,"2,300","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$439,000","464 Neptune Ave APT 15B, Brooklyn, NY 11224",2,1,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,000","163-76 17th Ave FLOOR 2, Whitestone, NY 11357",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$519,000","3400 Wallace Ave, Bronx, NY 10467",5,3,"1,300",N/A
+"$659,000","368 Sleight Ave, Staten Island, NY 10307",3,1,"1,152","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$575,000","242 E 25th St APT 5C, New York, NY 10010",Studio,1,549,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","2626 Homecrest Ave APT 7G, Brooklyn, NY 11235",1,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$949,999","3863 Hylan Blvd, Staten Island, NY 10308",6,3,"3,244","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$735,000","264 E Broadway APT C1702, New York, NY 10002",1,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$868,000","14105 Cherry Ave APT 7D, Flushing, NY 11355",2,3,"1,183","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$539,998","2800 Coyle St APT 604, Brooklyn, NY 11235",2,2,"1,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$595,000","90 Elizabeth St, Staten Island, NY 10310",3,3,"1,296",N/A
+"$1,575,000","2017 65th St, Brooklyn, NY 11204",6,3,"2,320",N/A
+"$485,000","300 E 71st St APT 12S, New York, NY 10021",Studio,1,550,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,249,000","125 Dumont Ave, Brooklyn, NY 11212",8,5,"5,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$529,000","14415 223rd St, Laurelton, NY 11413",3,2,"1,065","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$345,000","25 Tudor City Pl APT 303, New York, NY 10017",Studio,1,390,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,700,000","8734 169th St, Jamaica, NY 11432",8,5,"4,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$798,888","8160 261st St, Queens, NY 11004",3,3,"1,481","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,350,000","224 Albee Ave, Staten Island, NY 10312",5,4,"2,480",N/A
+"$1,500,000","1672 Nelson Ave, Bronx, NY 10453",12,4,"3,168",N/A
+"$900,000","10745 123rd St, Jamaica, NY 11419",4,3,"1,416","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,050,000","3602 Avenue K, Brooklyn, NY 11210",4,4,"2,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$240,000","1409 Metropolitan Ave, Bronx, NY 10462",1,1,655,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,000","1707 Saint Johns Pl, Brooklyn, NY 11233","1,532",N/A,N/A,N/A
+"$3,000,000","425 E 51st St APT 6A, New York, NY 10022",3,3,"2,000",https://photos.zillowstatic.com/p_e/ISznsxyz6ds5h40000000000.jpg
+"$345,000","5800 Arlington Ave APT 1F, Bronx, NY 10471",2,1,898,N/A
+"$1,550,000","10849 63rd Dr #YL9, Forest Hills, NY 11375",4,3,"3,600",https://photos.zillowstatic.com/p_e/ISz7kwbddx2wat1000000000.jpg
+"$519,000","175 Adams St APT 7E, Brooklyn, NY 11201",1,1,675,https://photos.zillowstatic.com/p_e/ISnaappdzz1m821000000000.jpg
+"$399,000","67-30 Clyde St APT 7A, Forest Hills, NY 11375",2,1,"1,000",https://photos.zillowstatic.com/p_e/ISrhibn1rsqigb1000000000.jpg
+"$1,150,000","1438 3rd Ave APT 9A, New York, NY 10028",1,2,771,https://photos.zillowstatic.com/fp/2246066dd8dc91881681bf6195af80c6-p_e.jpg
+"$995,000","103 Main St #6, Staten Island, NY 10307",9,6,"4,650",https://photos.zillowstatic.com/fp/763eae70edc6fee4bb9dd0d545c6e5a2-p_e.jpg
+"$985,000","55 Corbin Pl, Brooklyn, NY 11235",3,3,"1,744",https://photos.zillowstatic.com/fp/081ab4a4052920b3e46fef00b83747fc-p_e.jpg
+"$220,000","5700 Arlington Ave, Bronx, NY 10471",1,1,656,https://photos.zillowstatic.com/p_e/IS7uudc1fogemk1000000000.jpg
+"$799,999","12208 Montauk St, Jamaica, NY 11413",6,5,"2,200","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","11537 146th St, Jamaica, NY 11436",3,2,"1,224","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$590,000","13741 232nd St, Laurelton, NY 11413",3,2,--,N/A
+"$750,000","2959 Schley Ave #1, Bronx, NY 10465",3,3,"3,500",N/A
+"$569,000","485 Elverton Ave, Staten Island, NY 10308",3,3,"1,540","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$715,000","365 Bridge St #2LW, Brooklyn, NY 11201",1,1,732,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,000","893 Travis Ave, Staten Island, NY 10314",4,4,"1,428","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$875,000","1056 E 226th St, Bronx, NY 10466",8,3,"2,288","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,050,000","2459 86th St, Flushing, NY 11369",3,3,"2,087","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$479,000","1152 Jackson Ave, Bronx, NY 10456",3,3,"1,200",N/A
+"$1,490,000","4311 10th Ave, Brooklyn, NY 11219",3,3,"2,700","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$3,200,000","71 Quincy St, Brooklyn, NY 11238",Studio,--,"7,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,600,000","1315-1317 37th St, Brooklyn, NY 11210",10,6,"3,660","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$220,000","Hempstead Ave, Staten Island, NY 10306","1,600",N/A,N/A,N/A
+"$239,000","9963 66th Ave APT B10, Rego Park, NY 11374",Studio,1,520,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,995,000","389 Bergen St #2, Brooklyn, NY 11217",3,3,"2,028","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$315,000","3130 Brighton 6th St APT 6C, Brooklyn, NY 11235",1,1,780,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$579,999","314 Newport St, Brooklyn, NY 11212",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$999,000","257 Hosmer Ave, Bronx, NY 10465",5,4,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,149,000","2281 84th St, Brooklyn, NY 11214",6,3,"3,847","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,150,000","152 Meserole Ave, Brooklyn, NY 11222",--,--,"3,126","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$349,250","4136 51st St APT A5, Flushing, NY 11377",1,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$299,999","14325 84th Dr APT 2A, Briarwood, NY 11435",1,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$798,888","81-60 261st St, Glen Oaks, NY 11004",3,3,"1,481","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,251,000","3411 Church Ave, Brooklyn, NY 11203",8,3,"3,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$4,895,000","170 E 87th St APT E8B, New York, NY 10128",4,4,"2,610","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,999","12354 146th St, Jamaica, NY 11436",4,3,"1,264","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$830,000","8627 123rd Street # FL 1, Richmond Hill, NY 11418",2,4,"1,200",N/A
+"$1,875,000","819 5th Ave, Brooklyn, NY 11232",8,4,"2,320","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,550,000","3308-3310 White Plains Rd, Bronx, NY 10467",14,6,"7,920",N/A
+"$625,000","9 Mapleton Ave, Staten Island, NY 10306",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$437,000","571 Academy St APT 4E, New York, NY 10034",1,1,700,https://photos.zillowstatic.com/fp/6c9bc93e215f13ffacc576576d5d6a98-p_e.jpg
+"$1,725,000","2345 E 1st St, Brooklyn, NY 11223",7,5,"2,900",https://photos.zillowstatic.com/fp/476e5f169253b73f4150a4377dae6368-p_e.jpg
+"$1,395,000","110 Livingston St APT 14R, Brooklyn, NY 11201",2,2,"1,076",https://photos.zillowstatic.com/fp/d3bebc44bfbc1fd1c32ff51ff94a1571-p_e.jpg
+"$960,000","4130 Bruner Ave, Bronx, NY 10466",8,3,"3,100",https://photos.zillowstatic.com/fp/c77de195d08099b164d4a98a835a1bfc-p_e.jpg
+"$924,000","16 W 16th St APT 7AS, New York, NY 10011",1,1,750,https://photos.zillowstatic.com/p_e/ISv82okigxn6pq1000000000.jpg
+"$2,800,000","1679 42nd St, Brooklyn, NY 11204",7,4,"1,954",https://photos.zillowstatic.com/fp/b3305a165f4afbd0803bf2889d2ff537-p_e.jpg
+"$659,999","923 E 45th St, Brooklyn, NY 11203",3,2,--,https://photos.zillowstatic.com/p_e/ISr9ctero4iay81000000000.jpg
+"$839,999","603 E 81st St, Brooklyn, NY 11236",6,3,"2,450",https://photos.zillowstatic.com/p_e/ISr5dnnd96a6oh0000000000.jpg
+"$1,625,000","96 Rockwell Pl APT 7C, Brooklyn, NY 11217",2,2,"1,166",https://photos.zillowstatic.com/p_e/ISvchmkm560r7j1000000000.jpg
+"$379,995","37-27 86 #2E, Jackson Heights, NY 11372",1,1,771,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$619,000","17939 Anderson Rd, Jamaica, NY 11434",3,2,"1,600","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$530,000","1475 Saint Marks Ave, Brooklyn, NY 11233","2,038",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$3,799,000","129 Lafayette St APT 4C, New York, NY 10013",3,2,"2,017","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$599,000","140 E 56th St APT 9, New York, NY 10022",Studio,1,515,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$3,250,000","1663 E New York Ave, Brooklyn, NY 11212",0.78,N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$369,000","9707 63rd Rd APT 1L, Rego Park, NY 11374",1,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$925,000","145 E 48th St APT 34D, New York, NY 10017",1,2,739,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$579,999","928 Mother Gaston Blvd, Brooklyn, NY 11212",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$435,000","140-08 28th Rd #3B, Flushing, NY 11354",3,1,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$3,289,000","1161-1167 Rogers Ave, Brooklyn, NY 11226",Studio,--,"5,926","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,188","8867 Bay 16th St #2C, Brooklyn, NY 11214",1,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$625,000","15 Adler Pl, Brooklyn, NY 11208",4,1,"1,478",N/A
+"$1,100,000","415 E 52nd St, New York, NY 10022",2,2,"1,250","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$699,000","945 E 221st St, Bronx, NY 10469",5,4,"1,322","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$2,000,000","744 55th St, Brooklyn, NY 11220",5,3,"2,200",N/A
+"$699,000","10746 111th St, Jamaica, NY 11419",3,1,"1,314","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$849,000","205 Steinway Ave, Staten Island, NY 10314",4,2,"1,774","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,699,000","20 Pine St APT 1413, New York, NY 10005",2,2,"1,585","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$229,000","331 Beach 46 St, Far Rockaway, NY 11691","3,804",N/A,N/A,N/A
+"$199,000","5600 Netherland Ave #6E, Bronx, NY 10471",1,1,700,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","826 Castleton Ave, Staten Island, NY 10310","3,885",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$574,000","1580 E 13th St APT 4C, Brooklyn, NY 11230",3,2,"1,100","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$272,000","2912 Brighton 12th St APT 4E, Brooklyn, NY 11235",1,1,700,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$949,000","225 W 70th St APT B, New York, NY 10023",1,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$510,000","160 W End Ave APT 5M, New York, NY 10023",Studio,1,550,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$499,000","1993 Cornell Ave, Bronx, NY 10473","5,000",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,400,000","75 Autumn Ave, Brooklyn, NY 11208",7,4,"2,588",N/A
+"$750,000","Seeley Ln, Staten Island, NY 10308",0.33,N/A,N/A,N/A
+"$949,000","4403 Avenue D, Brooklyn, NY 11203",3,3,"1,800","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$350,000","65-60 Wetherole St APT 6A, Rego Park, NY 11374",1,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,015,000","110 Livingston St APT 10I, Brooklyn, NY 11201",1,1,828,https://photos.zillowstatic.com/fp/809680b157038c4a7f597749840e11c0-p_e.jpg
+"$589,000","2515 Edgemere Ave, Far Rockaway, NY 11691",3,3,"2,100",https://photos.zillowstatic.com/fp/5083d6680cc414fb85805eb8dc663f54-p_e.jpg
+"$949,000","225 W 70th St UNIT 2, Manhattan, NY 10023",1,2,--,https://photos.zillowstatic.com/p_e/ISrlp7c9nzmzxy0000000000.jpg
+"$1,688,000","780 W End Ave PENTHOUSE B, New York, NY 10025",2,2,642,https://photos.zillowstatic.com/fp/085cce1753ae3a44562344766f3ebf8e-p_e.jpg
+"$715,000","225 E 57th St APT 9C, New York, NY 10022",1,1,950,https://photos.zillowstatic.com/p_e/ISzf201k4zu3rs1000000000.jpg
+"$618,900","11113 115th St, Jamaica, NY 11420",3,2,"1,344",https://photos.zillowstatic.com/p_e/IS7qj6sada9goo0000000000.jpg
+"$859,999","1148 Remsen Ave, Brooklyn, NY 11236",2,3,"2,397",https://photos.zillowstatic.com/p_e/IS337afnl1tteo1000000000.jpg
+"$699,000","4459 Park Ave, Bronx, NY 10457",5,2,"2,000",https://photos.zillowstatic.com/fp/19e4f709c152f6a9d47a792423cd3488-p_e.jpg
+"$829,999","640 Van Siclen Ave, Brooklyn, NY 11207",5,3,"1,876",https://photos.zillowstatic.com/p_e/IS3fobptavyuw40000000000.jpg
+"$1,650,000","309-321 E 49th St APT 4B, New York, NY 10017",2,2,"1,243","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$729,000","201 E 36th St APT 18A, New York, NY 10016",1,1,873,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$749,000","350 W 42nd St APT 15I, New York, NY 10036",--,1,520,N/A
+"$565,000","552 Arden Ave, Staten Island, NY 10312","5,998",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$333,000","3716 83rd St APT 4B, Flushing, NY 11372",1,1,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$695,000","13412 Linden Blvd, S Ozone Park, NY 11420",Studio,2,"2,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$425,000","2626 Homecrest Ave APT 7G, Brooklyn, NY 11235",1,1,850,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$379,000","6910 Yellowstone Blvd #404, Forest Hills, NY 11375",1,1,900,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$228,888","10232 65th Ave #A35, Forest Hills, NY 11375",Studio,1,500,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$500,000","537 W 133rd St APT 31, New York, NY 10027",Studio,--,650,N/A
+"$1,800,000","3038 Brighton 8th St, Brooklyn, NY 11235","5,000",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$999,999","112-52 Guy R Brewer Boulevard, Queens, NY 11433","2,400",N/A,N/A,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$415,000","21-57 78th St #1, East Elmhurst, NY 11370",1,1,634,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$629,999","17630 129th Ave, Jamaica, NY 11434",3,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,288,000","1125 Elm Ave, Brooklyn, NY 11230",3,3,"2,010","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,795,000","330 E 38th St APT 20D, New York, NY 10016",2,2,"1,372","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$600,000","400 E 17th St APT 705, Brooklyn, NY 11226",2,1,"72,534",N/A
+"$315,000","5355 Henry Hudson Pkwy W APT 12C, Bronx, NY 10471",1,1,750,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$788,000","15127 136th Ave, Jamaica, NY 11434",2,2,870,N/A
+"$985,000","2658 E 7th St, Brooklyn, NY 11235",4,2,"2,068","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$709,000","63 Rhine Ave, Staten Island, NY 10304",3,2,891,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$975,000","425 E 79th St APT 10K, New York, NY 10075",2,1,"1,000","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,899,999","529 Mcdonald Ave, Brooklyn, NY 11218",12,7,"4,929","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$399,000","50 Brighton 1 Rd #M, Brooklyn, NY 11235",1,1,880,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$632,500","2 Tudor City Pl APT 2FN, New York, NY 10017",1,1,710,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$309,000","9740 62nd Dr APT 7G, Rego Park, NY 11374",1,1,800,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,300,000","16 Brighton 10th Path, Brooklyn, NY 11235",7,3,"2,400","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$1,188,888","203 W 122nd St APT 4, New York, NY 10027",2,2,"1,049","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$659,999","18620 118th Rd, Saint Albans, NY 11412",4,2,--,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$705,000","3620 Bronx Blvd, Bronx, NY 10467",5,3,"1,958","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$489,999","3203 Nostrand Ave APT 6B, Brooklyn, NY 11229",2,2,968,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$429,000","14341 84th Dr APT 4E, Briarwood, NY 11435",1,1,728,https://photos.zillowstatic.com/fp/5a40aad466d393e15a16500c7dee7cc4-p_e.jpg
+"$965,000","90 Wheeler Ave, Staten Island, NY 10314",3,1,"1,800",https://photos.zillowstatic.com/p_e/ISb95j03j1mutr1000000000.jpg
+"$980,000","100 Jay St APT 10E, Brooklyn, NY 11201",1,1,800,https://photos.zillowstatic.com/fp/f0253c54371af7ba718e3e4ee7ee9904-p_e.jpg
+"$779,999","510 E 53rd St, Brooklyn, NY 11203",4,2,--,https://photos.zillowstatic.com/p_e/IS3n2sd9p61u6j0000000000.jpg
+"$2,100,000","482 Mcdonald Ave, Brooklyn, NY 11218",8,4,"3,300",https://photos.zillowstatic.com/fp/0ed3d3641a1c4bc4fdfa21a57118e485-p_e.jpg
+"$458,000","6448 Booth St, Flushing, NY 11374",1,1,575,https://photos.zillowstatic.com/fp/3f2dc674ffdcdfadf2d27bcc315a6e16-p_e.jpg
+"$3,949,000","292 Wilson Ave, Brooklyn, NY 11237",25,8,"5,150",https://photos.zillowstatic.com/fp/8e4103213b0434fc69152695592dd88d-p_e.jpg
+"$750,000","14977 Huxley St FLOOR 2, Rosedale, NY 11422",3,2,--,https://photos.zillowstatic.com/p_e/ISzfaqaj9fh3o71000000000.jpg
+"$799,000","2701 Cropsey Ave APT 2C, Brooklyn, NY 11214",3,2,"1,379",https://photos.zillowstatic.com/fp/9dd818e0e99f3d1f02feb082cf952ecc-p_e.jpg
+"$875,000","6550 Wetherole St APT 1M, Flushing, NY 11374",2,1,"1,245","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$739,000","3626 Bronx Blvd, Bronx, NY 10467",3,1,"1,674","data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+"$569,000","2210 80th St APT 3F, East Elmhurst, NY 11370",2,1,876,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
