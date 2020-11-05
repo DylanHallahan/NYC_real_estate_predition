@@ -3,7 +3,7 @@ This project showcases skills following toolsets.
 
 1. Jupyter Notebooks, Pycharm and VS Studio
 2. Beautifulsoup for web scraping
-3. Pandas, Numby and Seaborn for Data exploration and cleaning
+3. Pandas, Numby and Seaborn for data exploration and cleaning
 4. SciKit Learn for model building
 5. Flask for model storage
 6. CSS, JS and HTML for app development
