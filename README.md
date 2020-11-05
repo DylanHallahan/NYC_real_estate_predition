@@ -9,4 +9,4 @@ This project show cases abilities in the following tools.
 5. Flask for model storage
 6. CSS, JS and HTML for app development
 
-	![alt text](Screenshot 2020-11-04 122731.jpg)
+	![alt text](https://github.com/DylanHallahan/NYC_real_estate_predition/blob/main/Screenshot%202020-11-04%20122731.png)
