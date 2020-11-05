@@ -1,5 +1,5 @@
 # NYC_real_estate_predition
-This project showcases skills following toolsets.
+This project showcases skills with the following tool.
 
 1. Jupyter Notebooks, Pycharm and VS Studio
 2. Beautifulsoup for web scraping
