@@ -1,5 +1,5 @@
 # NYC_Price_Predition
-This project showcases skills with the following tool.
+This project showcases skills with the following tools.
 
 1. Jupyter Notebooks, Pycharm and VS Studio for IDE
 2. Beautifulsoup for web scraping
