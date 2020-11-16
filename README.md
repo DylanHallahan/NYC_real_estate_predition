@@ -1,7 +1,7 @@
-# NYC_real_estate_predition
+# NYC_Price_Predition
 This project showcases skills with the following tool.
 
-1. Jupyter Notebooks, Pycharm and VS Studio
+1. Jupyter Notebooks, Pycharm and VS Studio for IDE
 2. Beautifulsoup for web scraping
 3. Pandas, Numby, and Seaborn for data exploration and cleaning
 4. SciKit Learn for model building
