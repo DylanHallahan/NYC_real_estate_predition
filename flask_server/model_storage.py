@@ -36,14 +36,13 @@ def load_saved_artifacts():
     if __model is None:
         with open('./artifacts/New_York_prices_model.pickle', 'rb') as f:
             __model = pickle.load(f)
-    print("loading saved artifacts...done")
 
 
-def get_area_names():
+def get_area_names(): #get for dropdown on page
     return __area
 
 
-def get_data_columns():
+def get_data_columns(): #get for dropdown on page
     return __data_columns
 
 
